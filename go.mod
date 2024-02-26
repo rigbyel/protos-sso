@@ -1,3 +1,3 @@
-module github.com/rigbyel/protos-sso/v1
+module github.com/rigbyel/protos-sso
 
 go 1.22.0
